@@ -89,6 +89,5 @@ public class NotifyWork extends Worker {
 
         manager.notify(id, notification.build());
 
-
     }
 }
